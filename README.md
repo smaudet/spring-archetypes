@@ -21,3 +21,9 @@ How to run
 * run mvn archetype:generate -DarchetypeCatalog=local. This will prompt you with list of locally installed artifact where you should choose appropriate number of recently installed one.
 * Patches are welcome
 Please do not hesitate to send me patches or contacting me on joining the project at stas.fedotov[at]gmail.com
+
+Additional resources
+====================
+
+http://start.spring.io/
+https://github.com/kolorobot/spring-mvc-quickstart-archetype
