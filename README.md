@@ -25,5 +25,5 @@ Please do not hesitate to send me patches or contacting me on joining the projec
 Additional resources
 ====================
 
-http://start.spring.io/
-https://github.com/kolorobot/spring-mvc-quickstart-archetype
+* http://start.spring.io/
+* https://github.com/kolorobot/spring-mvc-quickstart-archetype
